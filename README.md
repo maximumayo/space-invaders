@@ -5,3 +5,5 @@
 #### This is an exercise in writing graphics code without a framework by Mary Rose Cook
 * Through coding along with her presentaion I learned more about oop, graphics and event tracking
 * https://github.com/maryrosecook
+
+![screenshot of game](/images/actionshot.png?raw=true "screenshot of game")
