@@ -7,5 +7,7 @@
 * Through coding along with her presentaion I learned more about oop, graphics and event tracking
 * There is still much that could be done to augment this game
 * https://github.com/maryrosecook
+* Play it here: http://maximumayo.github.io/space-invaders/
 
 ![screenshot of game](/images/actionshot.png?raw=true "screenshot of game")
+
